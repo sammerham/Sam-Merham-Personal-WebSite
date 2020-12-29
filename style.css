@@ -1,0 +1,124 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-color: rgb(56, 58, 61);
+    background-image: url(images/background.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+header {
+    height: 60px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+nav {
+   background-color:rgba(0, 0, 0, 0.219);
+    height: 50px;
+   
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+nav ul li{
+    float: left;
+    
+}
+nav ul a{
+    color: blanchedalmond;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+  /* font-family: cursive; */
+}
+nav ul a:hover, a:active{
+color: rgb(184, 46, 46);
+}
+main {
+    
+    height: 750px;
+    text-align: center;
+}
+
+footer {
+    background-color: rgba(63, 60, 60, 0.185);
+    height: 40px;
+    color: cornsilk;
+    font-family: cursive,'Courier New', Courier, monospace;
+    font-size: px;
+}
+h1 {
+    font-size: 64px;
+    color: cornsilk;
+    font-family: cursive,'Courier New', Courier, monospace;
+    padding-top: 30px;
+    padding-right: 670px;
+}
+h3 {
+    font-size: 25px;
+    color: cornsilk;
+    font-family: cursive,'Courier New', Courier, monospace;
+    padding-left: 10px;;
+}
+p {
+    font-size: 20px;
+    color: cornsilk;
+    font-family: cursive;
+    padding-left: 20px;
+    padding-right: 700px;
+}
+.rithm {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+    font-weight: bolder;
+}
+.rithm a:hover, a:active{
+    color: rgb(184, 46, 46);
+}
+button {
+    float: left;
+    color: darkblue;
+}
+h3 {
+    font-size: 30px;
+    text-decoration: underline;
+    color: rgb(88, 77, 77);
+    font-family: cursive,'Courier New', Courier, monospace;
+    padding-top: 30px;
+    padding-bottom: 0;
+    padding-right: 670px;
+}
+a {
+    /* color: cornsilk; */
+    text-decoration: none;
+}
+.contact {
+    padding-top: 10px;
+    margin-top: 10px;
+    font-size: 30px;
+    color: cornsilk;
+}
+.about {
+    padding-top: 50px;
+    font-size: 30px;
+}
+
+.email,.linkedin {
+    color: cornsilk;
+}
