@@ -57,11 +57,9 @@ main {
 }
 
 footer {
-    background-color: rgba(63, 60, 60, 0.185);
     height: 40px;
     color: cornsilk;
     font-family: cursive,'Courier New', Courier, monospace;
-    font-size: px;
 }
 h1 {
     font-size: 64px;
