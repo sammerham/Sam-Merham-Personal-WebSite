@@ -58,25 +58,25 @@ main {
 footer {
     height: 40px;
     color: cornsilk;
-    font-family: cursive,'Courier New', Courier, monospace;
+    font-family: 'Courgette', cursive;
 }
 h1 {
     font-size: 64px;
     color: cornsilk;
-    font-family: cursive,'Courier New', Courier, monospace;
+    font-family: 'Courgette', cursive;
     padding-top: 30px;
     padding-right: 670px;
 }
 h3 {
     font-size: 25px;
     color: cornsilk;
-    font-family: cursive,'Courier New', Courier, monospace;
+    font-family: 'Courgette', cursive;
     padding-left: 10px;;
 }
 p {
-    font-size: 20px;
+    font-size: 23px;
     color: cornsilk;
-    font-family: cursive;
+    font-family: 'Courgette', cursive;
     padding-left: 20px;
     padding-right: 700px;
 }
@@ -96,7 +96,7 @@ h3 {
     font-size: 30px;
     text-decoration: underline;
     color: rgb(88, 77, 77);
-    font-family: cursive,'Courier New', Courier, monospace;
+    font-family: 'Courgette', cursive;
     padding-top: 30px;
     padding-bottom: 0;
     padding-right: 670px;
