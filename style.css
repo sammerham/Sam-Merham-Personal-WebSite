@@ -93,6 +93,13 @@ button {
     float: left;
     color: darkblue;
 }
+#sig {
+    text-align: left;
+    margin-left: 40px;
+}
+#signature {
+    width: 350px;
+}
 h3 {
     font-size: 30px;
     text-decoration: underline;
